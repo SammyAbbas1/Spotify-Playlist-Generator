@@ -180,7 +180,7 @@ def submit():
 
 #Create main window
 root = tk.Tk()
-root.title("Dynamic Playlist Generator")
+root.title("Spotify Playlist Generator")
 root.geometry("400x300") #Window size
 
 #Frame
