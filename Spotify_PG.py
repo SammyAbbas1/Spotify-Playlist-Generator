@@ -13,8 +13,8 @@ from PIL import Image, ImageTk
 
 #Setting up API access
 
-#My credentials
-sp = spotipy.Spotify(client_credentials_manager = SpotifyClientCredentials(client_id = "dda6968b1ed14ab89559df9e5e4cc3e5", client_secret = "d97348c3b59d4be3a6604702f2e88929"))
+#Credentials
+sp = spotipy.Spotify(client_credentials_manager = SpotifyClientCredentials(client_id = "Your Spotify Client ID", client_secret = "Your Spotify Client Secret"))
 
 # Fetch Playlists based on activity or mood
 def get_playlists(query):
