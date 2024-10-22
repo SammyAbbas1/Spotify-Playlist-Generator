@@ -56,4 +56,4 @@ To run this project locally, follow these steps:
 
    python Spotify_PG.py
    
-**Please let me know if you have any trouble running it or need access**
+**Please let me know if you have any trouble running or accessing it**
