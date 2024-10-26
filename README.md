@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
    pip install spotipy nltk pandas scikit-learn pillow
    
 3. Obtain your Spotify API credentials by creating an app on the Spotify Developer Dashboard
- //and replace the placeholder credentials in the code.
+   and replace the placeholder credentials in the code.
 
 4. Run the application:
 
